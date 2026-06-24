@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0f0c29,100:302b63&text=⚡%20Gopi%20AI%20Developer%20⚡&fontSize=45&fontColor=00f5ff&animation=fadeIn&fontAlignY=40"/>
@@ -79,14 +80,14 @@
 
 # 🚀 FEATURED PROJECTS
 
-- 🩸 Blood Bank Management System → Donor & Hospital connection platform  
-- 🤖 Bluecub AI → AI-powered learning assistant  
-- 🧠 DL Projects → Deep Learning experiments  
-- 🔐 Phishing Detection → Cybersecurity AI system  
+- 🩸 Blood Bank Management System  
+- 🤖 Bluecub AI  
+- 🧠 Deep Learning Projects  
+- 🔐 Phishing Detection System  
 
 ---
 
-# 🐻 CODING BUDDY
+# 🐻 CODER VIBE
 
 <p align="center">
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/bear-cute.gif" width="250"/>
@@ -94,7 +95,7 @@
 
 ---
 
-# 🌍 CONNECT WITH ME AGAIN
+# 🌍 CONNECT AGAIN
 
 <p align="center">
 
