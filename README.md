@@ -2,18 +2,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:7B2FF7,100:FF00FF&text=Hey,%20I'm%20Gopi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://avatars.githubusercontent.com/gopi16-11" width="180px"/>
+<img src="https://avatars.githubusercontent.com/gopi16-11" width="180"/>
 
 # 👋 Hey, I'm Gopi
 
 ### 🤖 AI & Data Science Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+for+Real+World+Problems+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+for+Real+World+Problems+🚀"/>
 
 <br>
 
 <a href="mailto:gopi2006811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF003C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://gopika-prime-nexus.lovable.app">
@@ -32,15 +32,15 @@
 - 🤖 Machine Learning Enthusiast
 - 🧠 Deep Learning Explorer
 - 📊 Data Analytics Learner
-- 🚀 Building AI-powered Solutions
+- 🚀 Building AI-Powered Solutions
 - 🌱 Lifelong Learner
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,git,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,git,github,vscode,mysql" />
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ Smart phishing website detection system.
 <p align="center">
 
 <a href="mailto:gopi2006811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF003C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://gopika-prime-nexus.lovable.app">
@@ -134,15 +134,15 @@ Smart phishing website detection system.
 
 ---
 
-# 🐻 Coding Bear
+# 🐻 Coding Buddy
 
 <div align="center">
 
-<img src="https://media.tenor.com/hVRhFeDFW6oAAAAC/bear-typing.gif" width="320"/>
+<img src="https://media.tenor.com/Iie2J6kYGUAAAAAC/bear-bubu.gif" width="280"/>
 
-<br><br>
+### 💻 Always Coding • Always Learning 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Training+AI+Models...;Building+Projects...;Exploring+Deep+Learning...;Creating+Real-World+Solutions..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Training+AI+Models...;Building+Cool+Projects...;Exploring+Deep+Learning...;Creating+Real-World+Solutions..."/>
 
 </div>
 
@@ -150,7 +150,9 @@ Smart phishing website detection system.
 
 <div align="center">
 
-## ✨ Using Artificial Intelligence to create real-world impact ✨
+## 💡 Vision
+
+### ✨ Using Artificial Intelligence to create real-world impact ✨
 
 ⭐ Thanks for visiting my profile!
 
