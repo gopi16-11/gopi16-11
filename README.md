@@ -134,7 +134,7 @@ Smart phishing website detection system.
 
 ---
 
-# 🐻 Coding Buddy
+# 🐻 Coding 
 
 <div align="center">
 
