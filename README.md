@@ -1,26 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Hey,%20I'm%20Gopi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:7B2FF7,100:FF00FF&text=Hey,%20I'm%20Gopi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 AI & Data Science Student
+<img src="https://avatars.githubusercontent.com/gopi16-11" width="180" style="border-radius:50%;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+Solutions+🚀"/>
+# 👋 Hey, I'm Gopi
 
-<p>
+### 🤖 AI & Data Science Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+for+Real+World+Problems+🚀"/>
+
+<br>
+
 <a href="mailto:gopi2006811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://gopika-prime-nexus.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-![](https://komarev.com/ghpvc/?username=gopi16-11&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=gopi16-11&style=for-the-badge&color=00F5FF"/>
 
 </div>
 
@@ -31,24 +31,26 @@
 - 🎓 AI & Data Science Student
 - 🤖 Machine Learning Enthusiast
 - 🧠 Deep Learning Explorer
-- 📊 Interested in Data Analytics
-- 🚀 Building Real-world AI Solutions
-- 🌱 Always Learning New Technologies
+- 📊 Data Analytics Learner
+- 🚀 Building AI-powered Solutions
+- 🌱 Lifelong Learner
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,git,github,vscode,mysql" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine Learning-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep Learning-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data Science-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer Vision-00C853?style=for-the-badge"/>
 
 </p>
 
@@ -57,7 +59,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gopi16-11&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gopi16-11&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -66,22 +68,22 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gopi16-11&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gopi16-11&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopi16-11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopi16-11&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gopi16-11&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopi16-11&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi16-11&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi16-11&theme=react-dark"/>
 </p>
 
 ---
@@ -97,15 +99,15 @@ AI-powered learning assistant for students.
 ### 🧠 DL-PROJECT
 Deep Learning and Machine Learning experiments.
 
-### 🔐 Phishing
-Smart phishing detection system.
+### 🔐 Phishing Detection
+Smart phishing website detection system.
 
 ---
 
-# 🐍 Contribution Snake
+#  Coder
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gopi16-11/gopi16-11/output/github-contribution-grid-snake.svg"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/bear-cute.gif" width="280"/>
 </p>
 
 ---
@@ -115,23 +117,25 @@ Smart phishing detection system.
 <p align="center">
 
 <a href="mailto:gopi2006811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://gopika-prime-nexus.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
 <div align="center">
 
-### 💡 "Using AI to create real-world impact"
+## 💡 Vision
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+### ✨ Using Artificial Intelligence to create real-world impact ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:7B2FF7,100:FF00FF"/>
+
+⭐ Thanks for visiting my profile!
 
 </div>
