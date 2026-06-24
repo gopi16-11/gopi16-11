@@ -2,175 +2,122 @@
 
 # 👋 Hey, I'm Gopi
 
-### 🤖 AI Engineer in Progress | AI & Data Science Student
+### 🤖 Artificial Intelligence & Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+AI-Powered+Solutions;Exploring+Computer+Vision+and+Data+Science;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+for+Real+World+Problems+🚀" />
 
-<br>
+<p>
+  <a href="https://gopika-prime-nexus.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:gopi2006811@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logo=vercel)](https://gopika-prime-nexus.lovable.app)
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:gopi2006811@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=gopi16-11&label=Profile+Views&color=0e75b6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=gopi16-11&style=for-the-badge&color=blue" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 🎓 Artificial Intelligence & Data Science Student
 
 🤖 Passionate about Machine Learning, Deep Learning & AI Systems
 
-📊 Exploring Data Science, Analytics and Predictive Modeling
+📊 Interested in Data Analytics & Predictive Modeling
 
-🔍 Interested in Computer Vision, NLP and Intelligent Applications
+🔍 Exploring Computer Vision, NLP & Intelligent Applications
 
-🚀 Building real-world projects that create meaningful impact
+🚀 Building impactful AI-powered solutions
 
-🌱 Constantly learning and improving through hands-on development
-
----
-
-# 🚀 Featured AI Projects
-
-## 🤖 Bluecub AI
-
-An AI-powered learning assistant designed to help students learn smarter.
-
-### Key Features
-
-- Personalized AI guidance
-- Student doubt solving
-- Smart learning assistance
-- Interactive educational support
+🌱 Lifelong learner who enjoys solving real-world problems
 
 ---
 
-## 🧠 DL Project
+## 🚀 Featured Projects
 
-Deep Learning and Machine Learning experiments built using Python.
+### 🤖 Bluecub AI
+AI-powered learning assistant that helps students learn smarter through intelligent guidance and personalized support.
 
-### Focus Areas
+### 🧠 DL Project
+Deep Learning and Machine Learning experiments using Python, focusing on neural networks and predictive intelligence.
 
-- Neural Networks
-- Deep Learning Models
-- AI Predictions
-- Data Analysis
+### 🔐 Phishing Detection
+Security-focused project that identifies phishing attacks and suspicious websites using intelligent detection techniques.
 
----
-
-## 🔐 Phishing Detection System
-
-Cybersecurity project for identifying phishing threats and malicious websites.
-
-### Features
-
-- Threat Detection
-- Website Analysis
-- Security Awareness
-- Intelligent Classification
+### 🩸 Blood Bank Management System
+A healthcare platform connecting blood donors, hospitals and patients through efficient management and emergency support.
 
 ---
 
-## 🩸 Blood Bank Management System
+## 💻 Tech Stack
 
-A real-world healthcare solution connecting donors, hospitals and patients.
-
-### Features
-
-- Blood Donor Registration
-- Blood Group Search
-- Emergency Requests
-- Stock Management
-
----
-
-# 💻 AI & Development Stack
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,git,github,vscode" />
+</p>
 
-</div>
+### AI & Data Science
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Computer Vision
+- Artificial Intelligence
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gopi16-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopi16-11&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopi16-11&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi16-11&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🎯 Current Learning Path
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ Computer Vision
-
-✅ Data Science
-
-✅ Artificial Intelligence
-
-✅ Generative AI
+</p>
 
 ---
 
-# 🏆 Goals for 2025
+## 🎯 Current Focus
 
-🚀 Build impactful AI applications
+🚀 Machine Learning
 
-📚 Master Deep Learning concepts
+🚀 Deep Learning
 
-🤝 Contribute to Open Source
+🚀 Computer Vision
 
-💡 Solve real-world problems using AI
+🚀 Data Science
 
-🌍 Create technology that helps people
+🚀 Generative AI
+
+🚀 Real-World AI Applications
 
 ---
 
-# 🌐 Connect With Me
+## 🌍 Connect With Me
 
-📧 Email: **gopi2006811@gmail.com**
+📧 gopi2006811@gmail.com
 
-🌍 Portfolio: **https://gopika-prime-nexus.lovable.app**
+🌐 https://gopika-prime-nexus.lovable.app
 
 ---
 
 <div align="center">
 
-## 🚀 Transforming Ideas into Intelligent Solutions
+## 💡 Vision
 
-### "Learn • Build • Innovate • Repeat"
+"Using Artificial Intelligence to build solutions that make a real impact."
 
 ⭐ Thanks for visiting my profile!
 
