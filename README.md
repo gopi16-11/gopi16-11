@@ -1,49 +1,51 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Hey,%20I'm%20Gopi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0f0c29,100:302b63&text=⚡%20Gopi%20AI%20Developer%20⚡&fontSize=45&fontColor=00f5ff&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 Hey, I'm Gopi
+# ⚡ Hey, I'm Gopi
 
-### 🤖 AI & Data Science Student
+### 🧠 AI & Data Science Student | 🤖 Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Building+AI+Solutions+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Deep+Learning+Explorer;Computer+Vision+Engineer;Building+AI+Solutions+⚡"/>
 
-<p>
+---
+
+## 🌐 CONNECT WITH ME
+
 <a href="mailto:gopi2006811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-00f5ff?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://gopika-prime-nexus.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=gopi16-11&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=gopi16-11&style=for-the-badge&color=00f5ff"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🧠 ABOUT ME
 
-- 🎓 AI & Data Science Student
-- 🤖 Machine Learning Enthusiast
-- 🧠 Deep Learning Explorer
-- 📊 Data Analytics Learner
-- 🚀 Building Real-World AI Solutions
-- 🌱 Lifelong Learner
+- 🎓 AI & Data Science Student  
+- 🤖 Machine Learning Enthusiast  
+- 🧠 Deep Learning Explorer  
+- 📊 Data Analytics Learner  
+- 🚀 Building Real-World AI Projects  
+- 🌱 Continuous Learner  
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,javascript,git,github,vscode,mysql" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gopi16-11&theme=tokyonight&no-frame=true&row=2&column=4"/>
@@ -51,7 +53,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <p align="center">
 
@@ -67,48 +69,41 @@
 
 ---
 
-# 📈 Activity Graph
+# 📈 ACTIVITY GRAPH
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi16-11&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi16-11&theme=react-dark"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-### 🩸 Blood-bank-management
-Blood Bank Management System connecting donors, hospitals and patients.
-
-### 🤖 Bluecub_AI
-AI-powered learning assistant for students.
-
-### 🧠 DL-PROJECT
-Deep Learning and Machine Learning experiments.
-
-### 🔐 Phishing Detection
-Smart phishing website detection system.
+- 🩸 Blood Bank Management System → Donor & Hospital connection platform  
+- 🤖 Bluecub AI → AI-powered learning assistant  
+- 🧠 DL Projects → Deep Learning experiments  
+- 🔐 Phishing Detection → Cybersecurity AI system  
 
 ---
 
-# Coder
+# 🐻 CODING BUDDY
 
 <p align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/bear-cute.gif" width="280"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/bear-cute.gif" width="250"/>
 </p>
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 CONNECT WITH ME AGAIN
 
 <p align="center">
 
 <a href="mailto:gopi2006811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-00f5ff?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://gopika-prime-nexus.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
 </a>
 
 </p>
@@ -117,12 +112,14 @@ Smart phishing website detection system.
 
 <div align="center">
 
-## 💡 Vision
+## 💡 VISION
 
-### "Using Artificial Intelligence to build solutions that create real-world impact."
+> "Using Artificial Intelligence to solve real-world problems and build the future."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+---
 
-⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:0f0c29,100:302b63"/>
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
